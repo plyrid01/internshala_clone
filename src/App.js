@@ -80,7 +80,7 @@ const App = () => {
       <div id='footer'>
         <div className='footer-contents'>
           <a href='https://internshala.com/refund_cancellation_policy'>Refund Policy</a>
-          <a href='https://trainings.internshala.com/ist-scholarship/?utm_source=ist_footer&sds_tracking_source=ist_footer'>IST Scolarshipp</a>
+          <a href='https://trainings.internshala.com/ist-scholarship/?utm_source=ist_footer&sds_tracking_source=ist_footer'>IST Scolarship</a>
           <a href='https://trainings.internshala.com/sitemap/?tracking_source=footer'>Sitemap</a>
         </div>
         <div className='footer-contents'>
