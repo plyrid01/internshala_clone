@@ -127,7 +127,7 @@ body, html, #root{
     color: #fff;
   }
 
-  @media screen and (max-width:339px){
+  @media screen and (max-width:500px){
     #footer{
         flex-direction: column;
         position: relative;
