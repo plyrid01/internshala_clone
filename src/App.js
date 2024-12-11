@@ -26,7 +26,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div id="outermost-div">
       <nav className="navbar">
         <div className="logo"></div>
       </nav>
