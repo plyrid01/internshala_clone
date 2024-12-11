@@ -17,7 +17,7 @@ const App = () => {
       setIsValid(true);
       setUserData(dummyData[code]);
     } else {
-      if(!window.matchMedia("(max-width: 339px)").matches){
+      if(!window.matchMedia("(max-width: 500px)").matches){
         document.getElementById("footer").style.position="absolute"
       }
       setIsValid(false);
