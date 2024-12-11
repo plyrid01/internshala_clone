@@ -13,6 +13,12 @@ body, html, #root{
     /* background-color: #f9f9f9; */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
+
+#outermost-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
   
   h1 {
     font-family: proxima-semibold;
