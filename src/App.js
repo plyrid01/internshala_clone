@@ -3,7 +3,9 @@ import React, { useState } from 'react';
 import './Styles/App.css';
 
 const dummyData = {
-  'c8ioabyvfnq': { Name: 'Mr. Ansh Sharma', Training_Name: 'Core Java', College_Name: "Arya College of Engineering", Final_Test_Score:"69%", Date_of_Certification: "2024-09-11" },
+  'c8ioabyvfnq': { Name: 'Mr. Ansh Sharma', Training_Name: 'Core Java', College_Name: "Arya College of Engineering", Final_Test_Score:"78%", Date_of_Certification: "2024-09-11" },
+  'd1ioabyvfnq': { Name: 'Mr. Prateek Rao Naik', Training_Name: 'Core Java', College_Name: "Arya College of Engineering", Final_Test_Score:"92%", Date_of_Certification: "2024-09-11" },
+  'e2ioabyvfbd': { Name: 'Mr. Ravi Raj Singh Tanwar', Training_Name: 'Core Java', College_Name: "Arya College of Engineering", Final_Test_Score:"69%", Date_of_Certification: "2024-09-11" },
 };
 
 const App = () => {
